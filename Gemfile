@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'sprockets', '~> 3.6'
+gem 'bcrypt-ruby', '~> 3.1', '>= 3.1.5'
 group :development, :test do
   gem 'sqlite3' 
 	gem 'rspec-rails', '~> 3.4', '>= 3.4.2'
